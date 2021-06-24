@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+    background:rgb(244, 252, 139);
+}
+header{
+    background-color: rgba(244, 250, 208, 0.932);
+}
+header p{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+nav{
+    text-align: left;
+    margin-bottom: 60px;
+}
+nav a{
+text-decoration: none;
+margin-left: 10px;
+color: rgb(36, 34, 32);
+font-weight: bold;
+padding-bottom: 20px;
+padding-left: 50px;
+}
+main{
+    background-color:rgb(255, 209, 245);
+    padding-top: 40px;
+}
+main h1{
+margin-left: 30px;
+}
+main h2{
+    text-align: center;
+    color: black;
+    font-size: 28px;
+ 
+}
+.text{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+}
+.butt-text{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.butt{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    margin-left: 10px;
+}
+table{
+    text-align: center;
+    font-size: 16px;
+}
+footer{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    text-align:center;
+    font-size: 14px;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(6, 1, 8);
+}
+#mark{
+    color: white;
+    margin-right: 300px;
+  }
+  .im{
+    margin-left: 10px; 
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/нота_0_1610638133.svg");
+ }
+
+
